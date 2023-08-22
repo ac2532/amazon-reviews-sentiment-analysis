@@ -15,8 +15,6 @@ Millions of Amazon customers have contributed over a hundred million reviews to 
 * reviews.text: text in review	
 * reviews.title: title of reviews	
 
-Download the dataset from [Google Drive](https://drive.google.com/file/d/1xflMtl_Q7K9_gimvhoung3Snfb96T-8a/view?usp=sharing) and store it in the datasets directory in the repository.
-
 
 
 
