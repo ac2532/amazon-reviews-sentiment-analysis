@@ -6,8 +6,7 @@ The goal of this project is to build a classification machine learning (ML) pipe
 
 * Build end-to-end regression pipeline using 1) multiple regression, 2) polynomial regression, and 3) ridge, and 4) lasso regression.
 * Evaluate regression methods using standard metrics including root mean squared error (RMSE), mean absolute error (MAE), and coefficient of determination (R2).
-* Develop a web application that walks users through steps of the regression pipeline and provide tools to analyze multiple methods across multiple metrics. 
-* Develop a web application that offers a service to customers by predicting housing prices using regression models. 
+* Develop a web application that walks users through steps of the regression pipeline and provide tools to analyze multiple methods across multiple metrics.
 
 # Amazon Products Dataset
 
